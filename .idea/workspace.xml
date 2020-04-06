@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9d0e1b3-9584-47f0-949e-a1e99bf81d76" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-electron-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-electron-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-electron-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-electron-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-electron-app/src/electron-starter.js" beforeDir="false" />
-    </list>
+    <list default="true" id="8ffd7a83-1f30-4074-89e1-927ff45d77e6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,19 +9,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="actualizadaDocumentacionSprint3" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1SwdkW2057c72RKJ21zicHwcKh2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572470930861" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573069516860" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/react-electron-app/src" />
     </key>
   </component>
@@ -43,12 +47,22 @@
       </list>
     </option>
   </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d9d0e1b3-9584-47f0-949e-a1e99bf81d76" name="Default Changelist" comment="" />
+      <changelist id="8ffd7a83-1f30-4074-89e1-927ff45d77e6" name="Default Changelist" comment="" />
       <created>1572451998855</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -56,6 +70,49 @@
       <workItem from="1572478742184" duration="207000" />
       <workItem from="1572549266319" duration="8000" />
     </task>
+    <task id="LOCAL-00001" summary="Agregada la planificación a entregar en el proximo sprint.">
+      <created>1573939458564</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573939458564</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Agregada la estimación.">
+      <created>1573940687220</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573940687220</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Agregada la estimación actualizada">
+      <created>1573940900204</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573940900204</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Agregada la estimación actualizada">
+      <created>1573940924192</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573940924192</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Estimación actualizada.">
+      <created>1574117174274</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574117174274</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Actualizada la retrospectiva, planificación y lo estimado del sprint 3">
+      <created>1574806147536</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574806147536</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +133,28 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Agregada la planificación a entregar en el proximo sprint." />
+    <MESSAGE value="Agregada la estimación." />
+    <MESSAGE value="Agregada la estimación actualizada" />
+    <MESSAGE value="Estimación actualizada." />
+    <MESSAGE value="Actualizada la retrospectiva, planificación y lo estimado del sprint 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualizada la retrospectiva, planificación y lo estimado del sprint 3" />
   </component>
   <component name="masterDetails">
     <states>

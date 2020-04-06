@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#menu {
+    float: left;
+    height: 625px;
+    padding: 20px;
+    width: 180px;
+}
+
+#contenido {
+    float:left;
+    height:500px;
+    padding:10px;
+    width:560px;
+}
+
+#img2 {
+    height: 220px;
+    margin-bottom: 5%;
+}
+
+.ingresar {
+    width: 50%;
+}
+
+.titleGRID {
+    width: 100%;
+    height: 12%;
+    display: block;
+    margin-top: -2%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.titleH1 {
+    font-size: 450%;
+    font-family: fantasy;
+}
+
+.container-fluid {
+    background: url('../resources/img3.jfif');
+}

@@ -1,0 +1,43 @@
+Se decidio tener un demo pantalla principal con los botones de registrar vehiculo, entrada y salida de vehiculo y poder listarlos. Si se toca el boton de registrar vehiculo, aparece  el formulario de forma visual de los datos a ingresar del dueño.
+
+#6 Registrar vehiculo.
+
+Como usuario quiero registrar un vehículo para poder agregarlo a la base de datos
+
+Prioridad: normal.
+Estimado: 
+Estado: en proceso.
+
+#7 Registrar horario de entrada del vehiculo
+
+Como usuario quiero registrar el horario de entrada del vehículo para determinar el tiempo que ingreso.
+
+Prioridad: normal.
+Estimado: 
+Estado: en proceso.
+
+
+#8 Registrar horario de salida del vehiculo
+
+Como usuario quiero registrar el horario de salida del vehículo para determinar a que hora se retiro del estacionamiento
+
+Prioridad: normal.
+Estimado: 
+Estado: en proceso.
+
+#9 Listar Vehiculos
+
+Como usario quiero poder listar todos los vehículos del estacionamiento para conocer su cantidad
+
+Prioridad: Baja.
+Estimado: 
+Estado: en proceso.
+
+
+#10 Mostrar Vehiculo
+
+Como usuario quiero poder visualizar un vehículo determinado
+
+Prioridad: Alta.
+Estimado: 
+Estado: en proceso.
